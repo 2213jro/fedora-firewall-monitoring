@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project demonstrates how to deploy and monitor a Fedora Linux firewall using open-source monitoring tools. The environment was built to gain hands-on experience with Linux administration, system monitoring, troubleshooting, and infrastructure documentation.
+This project documents the deployment and monitoring of a Fedora Linux firewall using Prometheus, Grafana, and Node Exporter. The goal was to gain hands-on experience with Linux administration, infrastructure monitoring, troubleshooting, and observability while building a portfolio-ready project.
+
+As part of the project, monitoring functionality was validated by intentionally stopping services and confirming that outages were detected and reported through Grafana dashboards.
 
 ## Project Goals
 

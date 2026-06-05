@@ -2,7 +2,7 @@
 
 ### Grafana Dashboard Overview
 
-![Grafana Dashboard](screenshots/grafana-dashboard-overview.png)
+![Grafana Dashboard](grafana-dashboard-overview.png)
 
 ### CPU Monitoring
 

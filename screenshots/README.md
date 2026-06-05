@@ -1,17 +1,25 @@
-# Screenshots
+## Screenshots
 
-This folder contains screenshots documenting the deployment, monitoring, and validation of the Fedora Firewall Monitoring Project.
+### Grafana Dashboard Overview
 
-## Planned Screenshots
+![Grafana Dashboard](screenshots/grafana-dashboard-overview.png)
 
-- Grafana Dashboard Overview
-- CPU Utilization
-- Memory Utilization
-- Disk Usage
-- Network Traffic
-- System Uptime
-- Service Health Monitoring
-- Node Exporter Outage Test
-- Node Exporter Recovery Test
+### CPU Monitoring
 
-These screenshots provide visual evidence of the monitoring environment and demonstrate the functionality of the observability stack.
+![CPU Monitoring](screenshots/cpu-monitoring.png)
+
+### Memory Monitoring
+
+![Memory Monitoring](screenshots/memory-monitoring.png)
+
+### Network Monitoring
+
+![Network Monitoring](screenshots/network-monitoring.png)
+
+### System Uptime
+
+![System Uptime](screenshots/uptime-monitoring.png)
+
+### Monitoring Validation Test
+
+![Node Exporter Outage Test](screenshots/node-exporter-outage-test.png)

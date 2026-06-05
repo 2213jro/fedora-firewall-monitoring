@@ -1,2 +1,10 @@
-# fedora-firewall-monitoring
-Monitoring and observability project using Fedora Linux, Prometheus, Grafana, and Node Exporter.
+Fedora Firewall Monitoring Project
+
+Overview
+Project Goals
+Technologies Used
+Architecture
+Features
+Screenshots
+Lessons Learned
+Future Improvements
